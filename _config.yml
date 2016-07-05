@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://eduguidepfl.github.io
+title: EduGuide Insider
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
